@@ -20,7 +20,7 @@ export default function SignUp() {
             Start Streamlining Your Customer Reports Today
           </h2>
           <p className="text-xl text-gray-600 mb-8">
-            Join thousands of professionals who trust ReportFlow for their customer reporting needs
+            Join thousands of professionals who trust ReportSync for their customer reporting needs
           </p>
 
           <div className="bg-white p-8 rounded-xl shadow-lg">
@@ -43,7 +43,7 @@ export default function SignUp() {
 
             <Link
               to="/signup"
-              className="block w-full bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition-colors text-lg font-semibold"
+              className="block w-full bg-green-600 text-white px-6 py-3 rounded-lg hover:bg-green-700 transition-colors text-lg font-semibold"
             >
               Start Free Trial
             </Link>

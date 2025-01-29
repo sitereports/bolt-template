@@ -8,7 +8,7 @@ export default function Footer() {
       <div className="container mx-auto px-4 py-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
-            <h3 className="text-lg font-semibold mb-4">ReportFlow</h3>
+            <h3 className="text-lg font-semibold mb-4">ReportSync</h3>
             <p className="text-sm text-gray-400">
               Streamline your customer reporting workflow with our intuitive platform.
             </p>
@@ -43,7 +43,7 @@ export default function Footer() {
         </div>
         
         <div className="mt-8 pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center">
-          <p className="text-sm text-gray-400">© 2024 ReportFlow. All rights reserved.</p>
+          <p className="text-sm text-gray-400">© 2024 ReportSync. All rights reserved.</p>
           <div className="flex space-x-4 mt-4 md:mt-0">
             <a href="#" className="hover:text-white transition-colors"><Github className="h-5 w-5" /></a>
             <a href="#" className="hover:text-white transition-colors"><Twitter className="h-5 w-5" /></a>
